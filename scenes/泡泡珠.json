@@ -1,0 +1,37 @@
+{
+  "name": "泡泡珠",
+  "trigger_words": [
+    "看",
+    "卡",
+    "试",
+    "展示"
+  ],
+  "bubble_words": [
+    "泡泡珠",
+    "泡泡",
+    "泡子",
+    "珠珠"
+  ],
+  "aliases": {},
+  "levels": [
+    10,
+    12,
+    14
+  ],
+  "priority": 200,
+  "default_level": 12,
+  "scenes": [
+    {
+      "cmd": "10泡",
+      "obs_scene": "10泡"
+    },
+    {
+      "cmd": "12泡",
+      "obs_scene": "12泡"
+    },
+    {
+      "cmd": "14泡",
+      "obs_scene": "14泡"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "白水",
+  "trigger_words": [
+    "看",
+    "卡",
+    "试",
+    "展示"
+  ],
+  "bubble_words": [
+    "白水"
+  ],
+  "aliases": {},
+  "levels": [
+    8,
+    10,
+    12,
+    14
+  ],
+  "priority": 100,
+  "default_level": 10,
+  "scenes": [
+    {
+      "cmd": "8",
+      "obs_scene": "8米"
+    },
+    {
+      "cmd": "10",
+      "obs_scene": "10米"
+    },
+    {
+      "cmd": "12",
+      "obs_scene": "12米"
+    },
+    {
+      "cmd": "14",
+      "obs_scene": "14米"
+    }
+  ]
+}

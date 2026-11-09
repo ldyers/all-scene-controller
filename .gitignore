@@ -1,0 +1,6 @@
+logs/
+__pycache__/
+*.pyc
+duck_ledger.json
+ 用户发言记录*.txt
+.DS_Store

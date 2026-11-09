@@ -1,0 +1,35 @@
+{
+  "name": "黄水",
+  "trigger_words": [
+    "看",
+    "卡",
+    "试",
+    "展示"
+  ],
+  "bubble_words": [
+    "黄水",
+    "黄水晶"
+  ],
+  "aliases": {},
+  "levels": [
+    6,
+    8,
+    10
+  ],
+  "priority": 300,
+  "default_level": 10,
+  "scenes": [
+    {
+      "cmd": "6黄",
+      "obs_scene": "6黄"
+    },
+    {
+      "cmd": "8黄",
+      "obs_scene": "8黄"
+    },
+    {
+      "cmd": "10黄",
+      "obs_scene": "10黄"
+    }
+  ]
+}

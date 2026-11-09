@@ -1,0 +1,35 @@
+{
+  "name": "紫水",
+  "trigger_words": [
+    "看",
+    "卡",
+    "试",
+    "展示"
+  ],
+  "bubble_words": [
+    "紫水",
+    "紫水晶"
+  ],
+  "aliases": {},
+  "levels": [
+    6,
+    8,
+    10
+  ],
+  "priority": 300,
+  "default_level": 10,
+  "scenes": [
+    {
+      "cmd": "6紫",
+      "obs_scene": "6紫"
+    },
+    {
+      "cmd": "8紫",
+      "obs_scene": "8紫"
+    },
+    {
+      "cmd": "10紫",
+      "obs_scene": "10紫"
+    }
+  ]
+}

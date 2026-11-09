@@ -1,0 +1,9 @@
+{
+  "danmu_log_dir": "",
+  "scene_enabled": true,
+  "scene_switch_delay_s": 3,
+  "scene_hold_s": 180,
+  "duck_scene_guard": true,
+  "duck_fade_ms": 0,
+  "unduck_fade_ms": 0
+}
